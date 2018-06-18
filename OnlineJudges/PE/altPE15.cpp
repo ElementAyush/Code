@@ -10,7 +10,6 @@ int main() {
 		prod *= i/(i-20);
 
 	cout << printf("%20f", prod) << '\n';
-
 	return 0;
 
 	}
