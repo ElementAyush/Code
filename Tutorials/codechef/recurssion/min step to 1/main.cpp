@@ -16,6 +16,7 @@ int minStepToOne(int n)
 
    return x ;
 
+
 }
 
 
