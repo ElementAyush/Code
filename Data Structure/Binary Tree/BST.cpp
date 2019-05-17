@@ -17,14 +17,16 @@ Node *createNode(int data)
 	Node *temp = new Node;
 	temp->data = data ;
 	temp->left = NULL ;
-	temp->right = NULL ;
+	temp->right = NULL;
+
 return temp ;
 }
+
+
 
 Node* Insert(Node *node ,int data)
 
 int main()
 {
 	Insert(Head,20) ;
-	
 }
